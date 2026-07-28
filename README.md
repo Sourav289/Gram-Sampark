@@ -19,3 +19,7 @@ The platform includes an Admin Dashboard that allows administrators to view repo
 * Photo upload support
 * Location-based issue reporting
 * Email/SMS notifications
+![Homepage](https://github.com/Sourav289/Gram-Sampark/blob/ef2e69d16a2e2171361385f10e127fdd918292d0/image1.jpg)
+![Homepage](https://github.com/Sourav289/Gram-Sampark/blob/ef2e69d16a2e2171361385f10e127fdd918292d0/image2.jpg)
+![Homepage](https://github.com/Sourav289/Gram-Sampark/blob/ef2e69d16a2e2171361385f10e127fdd918292d0/image3.jpg)
+![Homepage](https://github.com/Sourav289/Gram-Sampark/blob/ef2e69d16a2e2171361385f10e127fdd918292d0/image4.jpg)
